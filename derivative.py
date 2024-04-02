@@ -71,7 +71,7 @@ class Derivatives(Scene):
         )
 
         slope_value_text = (
-            Tex("Slope value: ")
+            MathTex("\\frac{\mathrm{d}y}{\mathrm{d}x}=")
             .next_to(plane1, DOWN, buff=0.1)
             .set_color(YELLOW)
             .add_background_rectangle()

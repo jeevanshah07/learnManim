@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/2471432767_2190149362_223132457.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_3890345977_1095023158.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_2736745319_1729893453.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1897445454_3332681920.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_2493694972_1437168405.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1141282389_579136453.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_2691390320_2711257180.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1704852926_977443050.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1077017109_4275021677.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1704852926_4059854277.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_3855841818_4271358513.mp4'
+file 'file:/home/marvel/Coding/learnManim/media/videos/tangent/1440p60/partial_movie_files/Tangent/950597557_1704852926_3931253806.mp4'
